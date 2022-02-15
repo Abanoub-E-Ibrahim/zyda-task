@@ -1,0 +1,4 @@
+- This is a maven project for selenium web driver using java and testNG as a test runner 
+- This project to check navigation to the target website, choose two items and add them to the cart then proceed to the checkout page
+- This also includes a complete cycle until login, payment and confirmation, and assertion for the confirmation message in the last step
+- This is the simplest way to perform the task without page object model
